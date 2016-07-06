@@ -1,0 +1,2 @@
+yocto layer for Kevoree
+=======================
