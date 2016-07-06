@@ -1,6 +1,2 @@
-Yocto layer for Kevoree
-=======================
-
-# Recipes
-
-* `kevoree-js'
+kevoree-nodejs-runtime recipe
+=============================
