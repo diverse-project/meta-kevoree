@@ -1,17 +1,23 @@
 yocto layer for Kevoree
 =======================
 
-# Requirements
+## Requirements
 
 Depends on layer `meta-nodejs`: https://github.com/imyller/meta-nodejs
 
-# Recipes
+## Recipes
 
 * `kevoree-js':
   * Install kevoree-nodejs-runtime from npm
 
-# Images
+## Images
 
 * `kevoree-image`:
   * Base: core-image-minimal
   * Packages: kevoree-js
+
+## Deploy
+
+### Beaglebone
+
+See http://android.serverbox.ch/?p=1273
