@@ -1,7 +1,7 @@
 DESCRIPTION = "Kevoree JS Runtime"
 HOMEPAGE = "http://kevoree.org/"
 SECTION = "js"
-LICENSE = "LGPL"
+LICENSE = "CLOSED"
 #LIC_FILES_CHKSUM = "file://LICENSE;md5=94a3f3bdf61243b5e5cf569fbfbbea52"
 
 PACKAGES = "${PN}"
